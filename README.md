@@ -2,7 +2,9 @@
 
 **TAMU CSEGSA x Snowflake Hackathon 2026 | Track A — ML Classification**
 
-**[Live Demo](https://app.snowflake.com/streamlit/sfeducationservices7/lab52074/#/apps/blvwkmmckunyiywyidsi)**
+**[Live Streamlit App](https://app.snowflake.com/streamlit/sfeducationservices7/lab52074/#/apps/blvwkmmckunyiywyidsi)**
+
+**[YouTube Demo Video](https://www.youtube.com/watch?v=ZS2vNILudsg)**
 
 Predict customer churn from CFPB financial complaint data using XGBoost + SHAP explainability — entirely inside Snowflake. No external APIs, no external compute.
 
